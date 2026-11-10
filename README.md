@@ -105,6 +105,7 @@ Riverside has official integrations listed in ChatGPT and Claude. Cotlet.dev is 
 
 - [Riverside on Cotlet.dev](https://cotlet.dev/integrations/riverside-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=riverside&utm_content=find)
 - [PyPI package riverside-mcp](https://pypi.org/project/riverside-mcp/)
+- [Odel](https://odel.app/modules/cotlet/riverside)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-riverside-to-ai-agents-guide)
 
 ## Also works with
